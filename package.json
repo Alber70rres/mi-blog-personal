@@ -1,0 +1,15 @@
+{
+  "name": "blog-personal",
+  "version": "1.0.0",
+  "description": "blog y marca personal de Alberto Torres",
+  "main": "index.html",
+  "scripts": {
+    "dev": "sergey --watch",
+    "start": "sergey"
+  },
+  "author": "@Alber70rres",
+  "license": "MIT",
+  "dependencies": {
+    "sergey": "^0.0.13"
+  }
+}
